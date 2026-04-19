@@ -33,3 +33,22 @@ https://github.com/amithkulal05/amith/blob/main/lab1c4.png
 
 lab1C5-o/plink
 https://github.com/amithkulal05/amith/blob/main/lab1c5.png
+
+lab2A1-o/plink
+https://github.com/amithkulal05/amith/blob/main/lab2a1.png
+
+lab2B2-o/plink
+https://github.com/amithkulal05/amith/blob/main/lab2b2.png
+
+
+
+
+
+
+
+
+
+
+
+
+
