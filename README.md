@@ -40,6 +40,39 @@ https://github.com/amithkulal05/amith/blob/main/lab2a1.png
 lab2B2-o/plink
 https://github.com/amithkulal05/amith/blob/main/lab2b2.png
 
+lab3a1-o/plink
+https://github.com/amithkulal05/amith/blob/main/lab3a1.png
+
+lab3b1-o/plink
+https://github.com/amithkulal05/amith/blob/main/lab3b1.png
+
+lab3b10-o/plink
+https://github.com/amithkulal05/amith/blob/main/lab3b10.png
+
+lab3b2-o/plink
+https://github.com/amithkulal05/amith/blob/main/lab3b2.png
+
+lab3b3-o/plink
+https://github.com/amithkulal05/amith/blob/main/lab3b3.png
+
+lab3b4-o/plink
+https://github.com/amithkulal05/amith/blob/main/lab3b4.png
+
+lab3b5-o/plink
+https://github.com/amithkulal05/amith/blob/main/lab3b5.png
+
+lab3b6-o/plink
+https://github.com/amithkulal05/amith/blob/main/lab3b6.png
+
+lab3b7-o/plink
+https://github.com/amithkulal05/amith/blob/main/lab3b7.png
+
+lab3b8-o/plink
+https://github.com/amithkulal05/amith/blob/main/lab3b8.png
+
+lab3b9-o/plink
+https://github.com/amithkulal05/amith/blob/main/lab3b9.png
+
 
 
 
