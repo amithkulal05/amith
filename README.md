@@ -73,6 +73,15 @@ https://github.com/amithkulal05/amith/blob/main/lab3b8.png
 lab3b9-o/plink
 https://github.com/amithkulal05/amith/blob/main/lab3b9.png
 
+lab4p1-o/plink
+https://github.com/amithkulal05/amith/blob/main/lab4p1.png
+
+lab4p2-o/plink
+https://github.com/amithkulal05/amith/blob/main/lab4p2.png
+
+lab4p3-o/plink
+https://github.com/amithkulal05/amith/blob/main/lab4p3%20(1).png
+
 
 
 
