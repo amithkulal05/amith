@@ -1,42 +1,31 @@
 package com.swingdemo;
 
 import javax.swing.*;
-import java.awt.event.*;
+import java.awt.*;
 
 public class P2 {
 
     public static void main(String[] args) {
 
-        JFrame frame = new JFrame("Country Button");
+        JFrame frame = new JFrame("Color Tabs");
 
-        JButton btn1 = new JButton("Srilanka");
-        JButton btn2 = new JButton("India");
+        JTabbedPane tabbedPane = new JTabbedPane();
 
-        JLabel label = new JLabel();
-        label.setBounds(50, 100, 300, 30);
+        JPanel redPanel = new JPanel();
+        redPanel.setBackground(Color.RED);
 
-        btn1.setBounds(50, 30, 100, 30);
-        btn2.setBounds(160, 30, 100, 30);
+        JPanel bluePanel = new JPanel();
+        bluePanel.setBackground(Color.BLUE);
 
-        // Event Handling
-        btn1.addActionListener(new ActionListener() {
-            public void actionPerformed(ActionEvent e) {
-                label.setText("Srilanka is pressed");
-            }
-        });
+        JPanel greenPanel = new JPanel();
+        greenPanel.setBackground(Color.GREEN);
 
-        btn2.addActionListener(new ActionListener() {
-            public void actionPerformed(ActionEvent e) {
-                label.setText("India is pressed");
-            }
-        });
+        tabbedPane.addTab("Red", redPanel);
+        tabbedPane.addTab("Blue", bluePanel);
+        tabbedPane.addTab("Green", greenPanel);
 
-        frame.add(btn1);
-        frame.add(btn2);
-        frame.add(label);
-
-        frame.setSize(400, 200);
-        frame.setLayout(null);
+        frame.add(tabbedPane);
+        frame.setSize(400, 300);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);
     }
